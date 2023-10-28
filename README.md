@@ -8,6 +8,11 @@
 
 #### 👯 Интересуюсь следующими направлениями: беспилотный транспорт, применение ML в энергетике. Углубляю полученные знания в направлении DS/ML
 
+Language and Tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
+
+          
+
 :heavy_check_mark: Мой диплом: 
  - [На русском языке](https://github.com/ejay34/ejay34/blob/main/Pavel%20Naruta_20232DS_rus.pdf)
  - [In English](https://github.com/ejay34/ejay34/blob/main/Pavel%20Naruta_20232DS_eng.pdf)
