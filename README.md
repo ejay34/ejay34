@@ -26,11 +26,7 @@
  - [In English](https://github.com/ejay34/ejay34/blob/main/Pavel%20Naruta_20232DS_eng.pdf)
 
 Как со мной связаться: 
-
-<div>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" title="linkedin" alt="linkedin" width="120" height="80"/>&nbsp;
-          
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 :phone: +7 927 525-12-40
 
