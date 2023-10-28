@@ -27,7 +27,7 @@
 
 Как со мной связаться: 
 <div>
-          <a href="https://t.me/PavelNaruta" class="telegram"><img src="https://www.flaticon.com/free-icon/telegram_3536661?term=telegram&page=1&position=6&origin=search&related_id=3536661"></a>
+          <a href="https://t.me/PavelNaruta" class="telegram"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536661.png"></a>
           <a href="https://vk.com/narutapavel" class="vk"><img src="https://www.flaticon.com/free-icon/vk_5968835?term=vk&page=1&position=3&origin=search&related_id=5968835"></a>
           <a href="https://www.linkedin.com/in/ejay34" class="linkedin"><img src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505"></a>
 </div>
