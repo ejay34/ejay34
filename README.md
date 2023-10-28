@@ -30,6 +30,7 @@
 
 :phone: +7 927 525-12-40
 
+
 :black_nib: narutapavel@yandex.ru
 
 Содержание моего репозитория:
