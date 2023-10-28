@@ -26,7 +26,13 @@
  - [In English](https://github.com/ejay34/ejay34/blob/main/Pavel%20Naruta_20232DS_eng.pdf)
 
 Как со мной связаться: 
-[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+<div>
+          <ul class="h__social">
+                    <li><a href="https://t.me/PavelNaruta" class="telegram"><img src="https://i.hh.ru/webpackBuild/7344ac7a1cf5cb7e360e.svg"></a></li>
+                    <li><a href="https://vk.com/narutapavel" class="vk"></a></li>
+                    <li><a href="https://www.linkedin.com/in/ejay34" class="linkedin"></a></li>
+          </ul>
+</div>
 
 :phone: +7 927 525-12-40
 
