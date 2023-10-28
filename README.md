@@ -27,11 +27,9 @@
 
 Как со мной связаться: 
 <div>
-          <ul class="h__social">
-                    <li><a href="https://t.me/PavelNaruta" class="telegram"><img src="https://i.hh.ru/webpackBuild/7344ac7a1cf5cb7e360e.svg"></a></li>
-                    <li><a href="https://vk.com/narutapavel" class="vk"></a></li>
-                    <li><a href="https://www.linkedin.com/in/ejay34" class="linkedin"></a></li>
-          </ul>
+          <a href="https://t.me/PavelNaruta" class="telegram"><img src="https://i.hh.ru/webpackBuild/7344ac7a1cf5cb7e360e.svg"></a>
+          <a href="https://vk.com/narutapavel" class="vk"><img src=""></a>
+          <a href="https://www.linkedin.com/in/ejay34" class="linkedin"><img src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667"></a>
 </div>
 
 :phone: +7 927 525-12-40
