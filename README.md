@@ -8,8 +8,9 @@
 
 #### 👯 Интересуюсь следующими направлениями: беспилотный транспорт, применение ML в энергетике. Углубляю полученные знания в направлении DS/ML
 
-Language and Tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
+### :hammer_and_wrench: Languages and Tools :
+<div>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 
           
 
